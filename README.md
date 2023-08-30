@@ -1,0 +1,5 @@
+# Breakout!
+## Description
+This is a Javascript clone of the classic Atari game Breakout. The player controls a paddle that can move left and right along the bottom of the screen. The player must use the paddle to bounce a ball into a wall of bricks. The player wins when all the bricks have been destroyed. The player loses when the ball falls below the paddle. The player has 3 lives. The player can also press 'esc' to pause the game. The game is over when the player loses all 3 lives or when the player wins. The player can then press 'esc' to return to the main menu. If the player won, their score is saved to local storage. The player can gain an extra ball after gaining 100 points. After breaking a brick on the top level, the player's paddle will shrink to half size. Additionally, the ball will speed up at intervals throughout the game. After the player loses a life, the paddle will come back full size, and the ball will reset.
+
+This game is deployed at [https://theaaronhanks.github.io/Breakout/](https://theaaronhanks.github.io/Breakout/)
